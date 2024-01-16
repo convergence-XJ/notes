@@ -1,0 +1,5 @@
+查找宏包的说明文档，以fontspec宏包为例：
+
+win + R 打开运行框，输入以下内容：
+
+texdoc fontspec 
